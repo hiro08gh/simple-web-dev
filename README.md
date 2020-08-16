@@ -4,5 +4,5 @@ simple web development using Parcel bundler.
 
 ## Support
 
-- JavaScript(EC5~)
+- JavaScript(ES5~)
 - SASS
